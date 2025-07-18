@@ -121,6 +121,12 @@ const shreeshanthShetty = {
 
 </div>
 
+### 👀 Profile Views Counter
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=SHREESHANTH99&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHREESHANTH99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Counter"/>
+</div>
+
 ## Current Focus
 
 **Currently Building Animatch My First Full Stack Web Application**
