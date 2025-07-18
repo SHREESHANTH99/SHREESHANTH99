@@ -71,7 +71,25 @@ const shreeshanthShetty = {
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SHREESHANTH99&theme=radical" alt="GitHub Streak"/>
 </div>
+### 📈 Detailed GitHub Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SHREESHANTH99&show_icons=true&theme=radical&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" alt="Detailed GitHub Stats"/>
+</div>
 
+### 🌟 GitHub Profile Summary
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SHREESHANTH99&theme=radical" alt="Profile Summary"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SHREESHANTH99&theme=radical" alt="Repos per Language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SHREESHANTH99&theme=radical" alt="Most Commit Language"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SHREESHANTH99&theme=radical" alt="Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SHREESHANTH99&theme=radical&utcOffset=5.5" alt="Productive Time"/>
+</div>
 ### 🏆 GitHub Trophies
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=SHREESHANTH99&theme=radical&row=2&column=3" alt="GitHub Trophies"/>
