@@ -4,10 +4,12 @@
 
 ## 🚀 About Me
 
+- 🏫 Student at **Indian Institute of information technology design and manufacturing jabalpur**
 - 🔭 I'm currently working on **Full Stack Web Applications related to anime**
 - 🌱 I'm currently learning **Three.js and React-3-fibre to build 3D website** 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 - 📫 How to reach me: **shreeshanthshetty@gmail.com**
+  
 
 ## 💻 Tech Stack
 
