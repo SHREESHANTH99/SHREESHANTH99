@@ -40,29 +40,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-## 🎯 Current Focus
-
-```typescript 
-const shreeshanthShetty = {
-  role: "Full Stack Developer",
-  code: ["JavaScript", "Python", "C++", "HTML", "CSS"],
-  askMeAbout: ["Web Dev", "React", "Node.js", "3D Graphics"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "JavaScript", "HTML5", "CSS3"],
-      css: ["TailwindCSS", "Bootstrap"],
-      3d: ["Three.js", "React Three Fiber"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express.js"],
-      database: ["MongoDB"]
-    },
-    tools: ["VS Code", "Postman", "Git","Docker"]
-  },
-  currentFocus: "Building Full Stack web Application related to Anime"
-};
-```
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -109,9 +86,8 @@ const shreeshanthShetty = {
 ### 🎯 2025 Goals
 - [ ] Build 5 full-stack applications
 - [ ] Contribute to 5 open source projects
-- [ ] Create interactive 3D web experiences
 - [ ] Learn Typescript and next.js
-- [ ] Contribute to Big Open Source Projects Like GSOC
+- [ ] Contribute to Big Open Source Projects Like GSOC and SOB
 
 
 ## 🌐 Connect with Me
@@ -129,13 +105,6 @@ const shreeshanthShetty = {
   <img src="https://komarev.com/ghpvc/?username=SHREESHANTH99&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSHREESHANTH99&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views Counter"/>
 </div>
-
-## Current Focus
-
-**Currently Building Animatch My First Full Stack Web Application**
-
-AniMatch is a **full‑stack anime web application** that helps users discover, track, and interact with anime content.  
-It’s designed as a smart, modern alternative to platforms like MyAnimeList or AniList, featuring **AI‑based recommendations**, **user libraries**, and an engaging **community section**.
 
 ## 🎮 Fun Facts
 
