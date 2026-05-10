@@ -80,9 +80,8 @@
 
 <div align="center">
 
-<a href="https://www.credly.com/org/the-linux-foundation/badge/lfc102-inclusive-open-source-community-orientation">
-  <img src="https://images.credly.com/images/PLACEHOLDER/badge.png" width="150"/>
-</a>
+<img width="204" height="204" alt="lfc102-inclusive-open-source-community-orientation" src="https://github.com/user-attachments/assets/a17ce573-8cec-40e5-8bf3-53eb50687838" />
+
 
 </div>
 
