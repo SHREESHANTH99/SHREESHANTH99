@@ -78,9 +78,10 @@
 
 ## 🏅 Certifications & Badges
 
-<div align="center">
+<div align="center" >
 
 <img width="204" height="204" alt="lfc102-inclusive-open-source-community-orientation" src="https://github.com/user-attachments/assets/a17ce573-8cec-40e5-8bf3-53eb50687838" />
+<img width="200" height="204" alt="lfd103-a-beginner-s-guide-to-linux-kernel-development" src="https://github.com/user-attachments/assets/8c8ee6fe-9cf6-4df1-a045-eae38e33a0d9" />
 
 
 </div>
