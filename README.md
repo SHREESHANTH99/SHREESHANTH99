@@ -22,7 +22,7 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 
 ---
 
-## What I am Building curren
+## What I build
 
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
