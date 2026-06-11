@@ -33,6 +33,8 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 
 ## Tech Stack
 
+## Tech Stack
+
 **Core languages**&ensp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=flat-square&logo=typescript&logoColor=3b82f6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=flat-square&logo=javascript&logoColor=fbbf24)
@@ -53,6 +55,14 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 ![React](https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=38bdf8)
 ![Next.js](https://img.shields.io/badge/Next.js-0f172a?style=flat-square&logo=nextdotjs&logoColor=e2e8f0)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-0f172a?style=flat-square&logo=tailwindcss&logoColor=38bdf8)
+
+**AI / ML**&ensp;
+![PyTorch](https://img.shields.io/badge/PyTorch-0f172a?style=flat-square&logo=pytorch&logoColor=f97316)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=flat-square&logo=tensorflow&logoColor=f97316)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-0f172a?style=flat-square&logo=scikitlearn&logoColor=f97316)
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=flat-square&logo=pandas&logoColor=60a5fa)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=flat-square&logo=numpy&logoColor=60a5fa)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0f172a?style=flat-square&logo=huggingface&logoColor=fbbf24)
 
 **Web3**&ensp;
 ![Ethereum](https://img.shields.io/badge/Ethereum-0f172a?style=flat-square&logo=ethereum&logoColor=a78bfa)
