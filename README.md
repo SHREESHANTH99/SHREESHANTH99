@@ -27,7 +27,7 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 | Project | What it does | Stack |
 |:--------|:-------------|:------|
 | **LifeCheck AI** | AI-based health monitoring with real-time alerts | NestJS · WebSockets · ML |
-| **GitWhisper** | Developer insights from live GitHub activity streams | Node.js · GitHub API · TypeScript |
+| **GitWhisper** | Developer insights from live GitHub activity streams | Rust |
 
 ---
 
