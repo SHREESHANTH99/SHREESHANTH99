@@ -2,16 +2,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&height=240&text=Shreeshanth%20Shetty&fontSize=48&color=0:0a0a0f,50:0d1b3e,100:0a0a0f&fontColor=e2e8f0&stroke=3b82f6&strokeWidth=1&animation=fadeIn&desc=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Web3%20Builder&descSize=15&descAlignY=79&descAlign=50"/>
 
+<img src="https://capsule-render.vercel.app/api?type=soft&height=55&color=0:0a0a0f,100:0d1b3e&fontColor=60a5fa&fontSize=16&animation=blink&section=header&text=%E2%9A%94%EF%B8%8F%20debugging%20the%20edge%20cases%20everyone%20else%20skips%20%E2%80%A2%20%E7%9B%AE%E6%8C%87%E3%81%9B%E6%97%A5%E6%9C%AC%20%F0%9F%87%AF%F0%9F%87%B5&reversal=false"/>
+
 <br/>
 
-<!-- Animated typing hero line -->
-<a href="https://github.com/SHREESHANTH99">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=900&color=60A5FA&center=true&vCenter=true&width=650&lines=%E2%9A%94%EF%B8%8F+building+systems+that+don't+break+at+2am;debugging+the+edge+cases+everyone+else+skips;%E3%80%8C+目指せ日本 %E3%80%8D+%E2%80%94+aiming+for+Japan;Rust+%2B+APIs+%2B+real-time+data+%3D+home" alt="Typing SVG"/>
-</a>
+[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=60a5fa)](mailto:shreeshanthshetty@gmail.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/shreeshanth-shetty-38b86a331)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=60a5fa)](https://portfolio-wheat-six-uha9hd1sjs.vercel.app/)&ensp;[![GitHub](https://img.shields.io/badge/SHREESHANTH99-0f172a?style=flat-square&logo=github&logoColor=60a5fa)](https://github.com/SHREESHANTH99)
+
+<img src="https://komarev.com/ghpvc/?username=SHREESHANTH99&style=flat-square&color=60a5fa&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
-[![Email](https://img.shields.io/badge/Email-0f172a?style=flat-square&logo=gmail&logoColor=60a5fa)](mailto:shreeshanthshetty@gmail.com)&ensp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=flat-square&logo=linkedin&logoColor=60a5fa)](https://www.linkedin.com/in/shreeshanth-shetty-38b86a331)&ensp;[![Portfolio](https://img.shields.io/badge/Portfolio-0f172a?style=flat-square&logo=vercel&logoColor=60a5fa)](https://portfolio-wheat-six-uha9hd1sjs.vercel.app/)&ensp;[![GitHub](https://img.shields.io/badge/SHREESHANTH99-0f172a?style=flat-square&logo=github&logoColor=60a5fa)](https://github.com/SHREESHANTH99)
+[![Launch Interactive Intro](https://img.shields.io/badge/🌀_LAUNCH_INTERACTIVE_INTRO-0f172a?style=for-the-badge&logoColor=60a5fa)](https://minimal-olive-ofu7lxiq.edgeone.dev/)
+
+<sub>WebGL scene · torii gate · falling sakura · neon glow — built with Three.js</sub>
 
 </div>
 
@@ -29,7 +32,7 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 > *I don't just want to use systems. I want to understand them, and eventually, design better ones.*
 
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3500&pause=1200&color=94A3B8&center=true&vCenter=true&width=550&lines=status%3A+debugging...;status%3A+shipping...;status%3A+learning+日本語...;status%3A+chasing+the+next+edge+case..." alt="status line"/>
+<img src="https://capsule-render.vercel.app/api?type=soft&height=45&color=0:0d1b3e,100:0a0a0f&fontColor=94a3b8&fontSize=13&animation=twinkling&text=status%3A%20always%20shipping%20something&desc=&descAlignY=0"/>
 </div>
 
 ---
@@ -118,6 +121,16 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 
 ---
 
+## 🎮 Trophy Case
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=SHREESHANTH99&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
+</div>
+
+<p align="center"><sub>Animated pop-in trophies, ranked from your GitHub activity — updates automatically, nothing to set up.</sub></p>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -133,21 +146,67 @@ One long-term goal: live and work in Japan. I'm building toward that deliberatel
 
 ---
 
-## 🐍 Contribution Snake
-
-A moving, animated version of your contribution graph — a snake literally eats through your commit squares frame by frame. This needs one small one-time setup (workflow file provided separately, see note below). Once it's running, this line renders the animation:
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/SHREESHANTH99/SHREESHANTH99/output/github-contribution-grid-snake.svg" alt="snake animation"/>
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHREESHANTH99&bg_color=0a0a0f&color=60a5fa&line=3b82f6&point=e2e8f0&area=true&area_color=1e3a5f&hide_border=true"/>
 </div>
+
+---
+
+<details>
+<summary>🐍 Optional: enable an animated contribution "snake" (one-time setup, click to expand)</summary>
+
+<br/>
+
+This makes a snake visibly eat through your commit graph. It needs a GitHub Actions workflow file, since it has to run on a schedule to regenerate the animation — that part can't live inside a plain README.
+
+1. In your `SHREESHANTH99/SHREESHANTH99` repo, create the file `.github/workflows/snake.yml` with this content:
+
+```yaml
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch: {}
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate snake animation
+        uses: Platane/snk@v3
+        with:
+          github_user_name: SHREESHANTH99
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push output to "output" branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+2. Push it, then run it once manually from the **Actions** tab (or just wait for the daily schedule).
+3. Once it's run at least once, add this line anywhere in your README and it'll animate:
+
+```md
+![snake animation](https://raw.githubusercontent.com/SHREESHANTH99/SHREESHANTH99/output/github-contribution-grid-snake.svg)
+```
+
+Don't add that image tag until step 2 is done — otherwise it'll show as broken, same as the typing SVG did.
+
+</details>
 
 ---
 
