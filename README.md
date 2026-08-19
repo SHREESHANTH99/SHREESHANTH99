@@ -2,7 +2,7 @@
 
 <h1>Hi, I'm Shreeshanth Shetty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
 
-<img src="https://capsule-render.vercel.app/api?type=cylinder&height=140&color=0:1e3a8a,50:7c3aed,100:be185d&text=Backend%20Engineer%20%E2%80%A2%20Systems%20Thinker%20%E2%80%A2%20Web3%20Builder&fontColor=ffffff&fontSize=20&fontAlignY=55&animation=fadeIn"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=800&color=4FA8C4&center=true&vCenter=true&width=460&lines=Backend+Engineer;Systems+Thinker;Building+LifeCheck+AI;B.Tech+ECE+%40+IIITDM+Jabalpur"/> <br/>
 
 <br/>
 
@@ -192,41 +192,40 @@ Emergency incident reporting and management platform connecting citizens with em
 
 ### GitHub Statistics
 
-<details>
-<summary><b>🔥 Streak Stats</b></summary>
+**🔥 Streak Stats**
 <br/>
 <div align="center">
 <img src="https://streak-stats.demolab.com?user=SHREESHANTH99&theme=transparent&fire=3b82f6&ring=3b82f6&currStreakLabel=60a5fa&sideLabels=94a3b8&dates=475569&border=1e293b"/>
 </div>
-</details>
 
-<details>
-<summary><b>💻 Profile Stats & Top Languages</b></summary>
+<br/>
+
+**💻 Profile Stats & Top Languages**
 <br/>
 <div align="center">
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=SHREESHANTH99&show_icons=true&theme=transparent&title_color=60a5fa&text_color=94a3b8&icon_color=3b82f6&border_color=1e293b&include_all_commits=true&count_private=true"/>
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SHREESHANTH99&layout=compact&theme=transparent&title_color=60a5fa&text_color=94a3b8&border_color=1e293b&langs_count=8"/>
 </div>
-</details>
 
-<details>
-<summary><b>⚡ Recent Activity</b></summary>
+<br/>
+
+**⚡ Recent Activity**
 <br/>
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=SHREESHANTH99&bg_color=0a0a0f&color=3b82f6&line=3b82f6&point=e2e8f0&area=true&area_color=1e3a5f&hide_border=true"/>
 </div>
-</details>
 
-<details>
-<summary><b>🏆 Trophies</b></summary>
+<br/>
+
+**🏆 Trophies**
 <br/>
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=SHREESHANTH99&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6"/>
 </div>
-</details>
 
-<details>
-<summary><b>📌 Pinned Repositories</b></summary>
+<br/>
+
+**📌 Pinned Repositories**
 <br/>
 
 | Repository | Description |
@@ -236,8 +235,6 @@ Emergency incident reporting and management platform connecting citizens with em
 | [Proffskill](https://github.com/SHREESHANTH99/Proffskill) | Decentralized platform for verifying professional skills |
 | [LifeCheckAi](https://github.com/SHREESHANTH99/LifeCheckAi) | Environmental intelligence platform for India-first safety decisions |
 | [GitWhisper](https://github.com/SHREESHANTH99/GitWhisper) | Rust-based tool that explains codebase evolution using AI |
-
-</details>
 
 ---
 
